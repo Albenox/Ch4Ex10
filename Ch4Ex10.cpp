@@ -3,7 +3,7 @@
     Programmer: Gabriel Inocentes
     Date: February 27, 2024
     Requirements:
-    Create a program that asks the user to input their height and weight, then calculates their BMI (Body Mass Index), declaring if they have optimal weight, are underweight, or are overweight
+    Create a program that asks the user to input a month and a year, then display the number of days in the month input
 */
 
 #include <iostream>
